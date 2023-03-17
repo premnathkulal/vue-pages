@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d9bd5d66047c51be579d",
-    "url": "/vue-pages/css/about.30d17b59.css"
+    "revision": "d7efe974cb6064bbe387",
+    "url": "/vue-pages/css/admin.30d17b59.css"
   },
   {
-    "revision": "5eb581de205c0fc614f9",
+    "revision": "7adf29db6c2bd99b6e82",
     "url": "/vue-pages/css/app.b8a1228b.css"
   },
   {
@@ -16,16 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-pages/img/logo-no-bg.7c9193bd.png"
   },
   {
-    "revision": "55e521d638afe1eb5afa626154f4294f",
+    "revision": "ea67caedc7d94e0ce1acf19a0c9c74bf",
     "url": "/vue-pages/index.html"
   },
   {
-    "revision": "d9bd5d66047c51be579d",
-    "url": "/vue-pages/js/about.d9b8bcd4.js"
+    "revision": "8259020ee87b79592e60",
+    "url": "/vue-pages/js/about.85617e52.js"
   },
   {
-    "revision": "5eb581de205c0fc614f9",
-    "url": "/vue-pages/js/app.9239e354.js"
+    "revision": "d7efe974cb6064bbe387",
+    "url": "/vue-pages/js/admin.49ebf851.js"
+  },
+  {
+    "revision": "7adf29db6c2bd99b6e82",
+    "url": "/vue-pages/js/app.556f4188.js"
   },
   {
     "revision": "a93ffaff8d0bcc7ed6fa",
