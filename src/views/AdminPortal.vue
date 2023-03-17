@@ -51,7 +51,6 @@ export default class AdminPortal extends Vue {
     navigator.clipboard
       .readText()
       .then((cliptext: any) => (this.documentId = cliptext));
-    console.log(this.documentId);
   }
 }
 </script>
