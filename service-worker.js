@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vue-pages/precache-manifest.c3627067feace69944418305b15a2c70.js"
+  "/vue-pages/precache-manifest.b3bb9fe0e429cff57cafc1ad8ca19bb0.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vamsha-news"});
